@@ -1,2 +1,3 @@
 # Monetizing_ML_Python
 
+Este es un proyecto que desarrollaré a lo largo de este mes (Enero 2023) donde realizaré ejercicios del libro "Monetizing Machine Learning:Quickly Turn Python ML Ideas into Web Aplications on the Serverless Cloud" de autor "Manuel Amunategui & Mehdi Roopaei" con el fin de ampliar mis conocimientos para después aplicarlos en un proyecto emprendedor en el cual estoy trabajando.
